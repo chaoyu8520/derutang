@@ -1,0 +1,8 @@
+/assets/
+/runtime
+/prod.lock
+/test.lock
+/dev.lock
+/config/constant-test.php
+/config/main-test.php
+/.idea/
