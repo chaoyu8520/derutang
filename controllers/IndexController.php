@@ -5,6 +5,7 @@ use app\models\Ceshi;
 use yii\web\Controller;
 class IndexController extends Controller{
     public function actionIndex(){
+	echo 'BETA<br>';
 //
 //        exit;
         $ceshi = Ceshi::find()->asArray()->all();
