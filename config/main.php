@@ -1,5 +1,4 @@
 <?php
-/** 生产环境配置 */
 $params = require(__DIR__ . '/params.php');
 $config = [
     'id' => 'basic',
